@@ -1,6 +1,5 @@
 import makeWASocket, { useMultiFileAuthState, DisconnectReason } from "@whiskeysockets/baileys";
 import express from "express";
-import fs from "fs";
 import ytdl from "ytdl-core";
 import yts from "yt-search";
 
